@@ -46,7 +46,7 @@ Seluruh perintah pemrosesan data menggunakan tool `awk` dan `grep` telah didokum
      **dokumentasi:**
      
   Koneksi SSH & transfer
-     <img width="1920" height="1020" alt="Screenshot 2026-06-12 112234" src="https://github.com/user-attachments/assets/cd7f0dec-1ad9-4f5f-ab9e-260f41b84fab" />
+    <img width="1280" height="800" alt="ss" src="https://github.com/user-attachments/assets/f8f79dbc-d33d-4a46-a8b9-551fe784b2b0" />
      <img width="1482" height="762" alt="Screenshot 2026-06-16 165758" src="https://github.com/user-attachments/assets/caba1dd7-2485-46a7-bbd4-31f9b7d3446e" />
 
   penarikan hasil
